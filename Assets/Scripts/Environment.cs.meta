@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 7c4f50fbb902a41f1a93552cb80aa073
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - envCube: {fileID: 8900000, guid: c3ce6a9a0a28f41ac8a34ccc0806a9a5, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
